@@ -23,7 +23,7 @@ Have you lost your pet and want to share it to help find it? LostAnimals is your
 
 
 ## Status of the app
-Right now LostAnimals is not in production. I'm developing the app yet, but counting each week to see my app on AppStore :)
+Right now LostAnimals is not in production. The app is in TestFlight, but counting each week to see my app on AppStore :)
 
 
 ## Do you want to try LostAnimals beta before its release?
