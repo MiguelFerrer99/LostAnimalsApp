@@ -4,7 +4,7 @@
 
 
 ## Why you would want to use Lost Animals?
-Lost Animals is the perfect app to spread the word about the loss of any pet. Plus many more features!
+Lost Animals is the perfect app to spread the loss of any pet or animal. And many more features!
 
 
 ## Description
