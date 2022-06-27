@@ -8,7 +8,7 @@ Lost Animals is the perfect app to spread the loss of any pet or animal. And man
 
 
 ## Description
-Have you lost your pet and want to share it to help find it? Lost Animals is your option, in addition to helping you with your lost pet, it also allows you to share found pets and adopt or give one up for adoption.
+Have you lost your pet and want to share it to help find it? Lost Animals is your option. In addition, helping you with your lost pet, it also allows you to share found pets and adopt or give one up for adoption.
 
 
 ## Screenshots
