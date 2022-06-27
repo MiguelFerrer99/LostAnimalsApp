@@ -12,7 +12,7 @@ Have you lost your pet and want to share it to help find it? LostAnimals is your
 
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/56566735/175995514-ab201495-8a8b-4c9b-bf54-84881c0641df.png) with <img src="https://user-images.githubusercontent.com/56566735/175995514-ab201495-8a8b-4c9b-bf54-84881c0641df.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/56566735/175995514-ab201495-8a8b-4c9b-bf54-84881c0641df.png" width="400" height="800">
 
 ![1](https://user-images.githubusercontent.com/56566735/175995514-ab201495-8a8b-4c9b-bf54-84881c0641df.png)
 ![3](https://user-images.githubusercontent.com/56566735/175995497-f97b493b-3fa0-415e-9c6d-556316003da4.png)
