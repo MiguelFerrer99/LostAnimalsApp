@@ -12,14 +12,13 @@ Have you lost your pet and want to share it to help find it? Lost Animals is you
 
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/56566735/175995514-ab201495-8a8b-4c9b-bf54-84881c0641df.png" width="400" height="866">
-<img src="https://user-images.githubusercontent.com/56566735/175995497-f97b493b-3fa0-415e-9c6d-556316003da4.png" width="400" height="866">
-<img src="https://user-images.githubusercontent.com/56566735/175995531-2d84e3ed-bb8f-4a93-913f-42885f0554cc.png" width="400" height="866">
-<img src="https://user-images.githubusercontent.com/56566735/175995437-7e258f1e-fabb-4321-a5d9-a5923b424fd1.png" width="400" height="866">
-<img src="https://user-images.githubusercontent.com/56566735/175995451-6652b130-bcbf-475a-8949-6d629f61dc52.png" width="400" height="866">
-<img src="https://user-images.githubusercontent.com/56566735/175995468-7ec9a7ac-305e-4af6-a391-75fd5d368901.png" width="400" height="866">
-<img src="https://user-images.githubusercontent.com/56566735/175995551-79191663-d63d-4353-bd6f-643034b48cf1.png" width="400" height="866">
-<img src="https://user-images.githubusercontent.com/56566735/175995564-4b868eab-4513-429c-a932-d1fd41f70f84.png" width="400" height="866">
+<img src="https://user-images.githubusercontent.com/56566735/176034296-1dd86400-6ccb-4e10-b66e-8b7f4b2d8971.png" width="400" height="866">
+<img src="https://user-images.githubusercontent.com/56566735/176034308-5b7ab161-eb40-4812-90b7-dd9a5903f8f6.png" width="400" height="866">
+<img src="https://user-images.githubusercontent.com/56566735/176034322-1ac4cd6e-a12e-4f4c-b8b5-0c124ee65112.png" width="400" height="866">
+<img src="https://user-images.githubusercontent.com/56566735/176034337-7ab9f0ce-43ac-4e19-a5e6-15f5e97a5280.png" width="400" height="866">
+<img src="https://user-images.githubusercontent.com/56566735/176034346-8faa30fc-6633-4d2c-996b-1986d0c9191d.png" width="400" height="866">
+<img src="https://user-images.githubusercontent.com/56566735/176034357-448b9049-9fbb-47c0-be4e-29df9b5a3619.png" width="400" height="866">
+<img src="https://user-images.githubusercontent.com/56566735/176034363-f60eb83d-38c0-4868-8a41-d360cb2ad4f5.png" width="400" height="866">
 
 
 ## Status of the app
