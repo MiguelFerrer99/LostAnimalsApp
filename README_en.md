@@ -1,14 +1,14 @@
-# LostAnimals
+# Lost Animals
 
 ![Header](https://user-images.githubusercontent.com/56566735/161317149-1abb07bf-3c39-4b5b-aec5-23fc957c7204.png)
 
 
-## Why you would want to use LostAnimals?
-LostAnimals is the perfect app to spread the word about the loss of any pet. Plus many more features!
+## Why you would want to use Lost Animals?
+Lost Animals is the perfect app to spread the word about the loss of any pet. Plus many more features!
 
 
 ## Description
-Have you lost your pet and want to share it to help find it? LostAnimals is your option, in addition to helping you with your lost pet, it also allows you to share found pets and adopt or give one up for adoption.
+Have you lost your pet and want to share it to help find it? Lost Animals is your option, in addition to helping you with your lost pet, it also allows you to share found pets and adopt or give one up for adoption.
 
 
 ## Screenshots
