@@ -30,6 +30,9 @@ Contact me through my Email or LinkedIn:
 * Email: miguelferrerfornali1999@gmail.com
 * LinkedIn: https://www.linkedin.com/in/miguel-ferrer-fornali-6145b017a/
 
+Or click the next link:
+* TestFlight: https://testflight.apple.com/join/iJCFM087
+
 
 ## Do you want to help me to improve and mantain LostAnimals?
 * Donate here: https://www.paypal.com/donate/?hosted_button_id=BEQCUXA9FG77S
