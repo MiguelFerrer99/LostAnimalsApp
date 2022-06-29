@@ -32,7 +32,7 @@ Contáctame a través de mi Email o LinkedIn:
 * LinkedIn: https://www.linkedin.com/in/miguel-ferrer-fornali-6145b017a/
 
 O pincha en el siguiente enlace:
-* TestlFlight: https://testflight.apple.com/join/iJCFM087
+* TestFlight: https://testflight.apple.com/join/iJCFM087
 
 
 ## ¿Quieres ayudarme a mejorar y mantener LostAnimals?
