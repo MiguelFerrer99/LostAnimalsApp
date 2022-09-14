@@ -23,7 +23,7 @@ Lost Animals es la app perfecta para difundir la pérdida de cualquier mascota o
 
 
 ## Estado actual de la app
-Ahora mismo Lost Animals no está en producción. Se encuentra en TestFlight, pero estamos contando cada semana para verla en el AppStore :)
+Lost Animals ya se encuentra en el App Store!
 
 
 ## ¿Quieres probar Lost Animals antes de su lanzamiento?
