@@ -24,10 +24,16 @@ Have you lost your pet and want to share it to help find it? Lost Animals is you
 ## Status of the app
 Lost Animals is already available in App Store!
 
+
+## Figma
+https://www.figma.com/file/qqDxdSXrQqFevanQKM0yUG/LostAnimals?node-id=4824%3A75&t=XTMBVRM495gtA67P-1
+
+
 ## Technical features
 * MVVM
 * Firebase
 * UIKit
+
 
 ## Do you want to try LostAnimals beta before its release?
 Contact me through my Email or LinkedIn:
