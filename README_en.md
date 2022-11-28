@@ -25,7 +25,7 @@ Have you lost your pet and want to share it to help find it? Lost Animals is you
 Lost Animals is already available in App Store!
 
 
-## Figma
+## Figma design
 https://www.figma.com/file/qqDxdSXrQqFevanQKM0yUG/LostAnimals?node-id=4824%3A75&t=XTMBVRM495gtA67P-1
 
 
