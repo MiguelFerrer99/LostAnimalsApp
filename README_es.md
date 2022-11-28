@@ -25,7 +25,11 @@ Lost Animals es la app perfecta para difundir la pérdida de cualquier mascota o
 Lost Animals ya se encuentra en el App Store!
 
 
-## Technical features
+## Diseño Figma
+https://www.figma.com/file/qqDxdSXrQqFevanQKM0yUG/LostAnimals?node-id=4824%3A75&t=XTMBVRM495gtA67P-1
+
+
+## Características técnicas
 * MVVM
 * Firebase
 * UIKit
