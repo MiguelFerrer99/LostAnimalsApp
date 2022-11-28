@@ -21,9 +21,14 @@ Lost Animals es la app perfecta para difundir la pérdida de cualquier mascota o
 <img src="https://user-images.githubusercontent.com/56566735/176033857-3a6929e7-546a-474f-b3d8-074784e526f4.png" width="400" height="866">
 
 
-
 ## Estado actual de la app
 Lost Animals ya se encuentra en el App Store!
+
+
+## Technical features
+* MVVM
+* Firebase
+* UIKit
 
 
 ## ¿Quieres probar Lost Animals antes de su lanzamiento?
